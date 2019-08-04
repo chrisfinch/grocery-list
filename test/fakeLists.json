@@ -1,0 +1,34 @@
+{
+  "lists": [
+    {
+      "id": "1",
+      "title": "Demo list",
+      "created": 1564695374960,
+      "items": [
+        {
+          "name": "beans",
+          "purchased": true
+        },
+        {
+          "name": "bread",
+          "purchased": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Other list",
+      "created": 1564695541598,
+      "items": [
+        {
+          "name": "pasta",
+          "purchased": false
+        },
+        {
+          "name": "eggs",
+          "purchased": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Renders Correctly 1`] = `
+<div>
+  <h1>
+    Grocery List
+  </h1>
+  <h2>
+    Lists:
+  </h2>
+  <ul />
+  <hr />
+  <form
+    action="#"
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      placeholder="New list name"
+      type="text"
+      value=""
+    />
+    <input
+      type="submit"
+      value="Create list"
+    />
+  </form>
+  <hr />
+  <ListView
+    activeListId={null}
+  />
+</div>
+`;

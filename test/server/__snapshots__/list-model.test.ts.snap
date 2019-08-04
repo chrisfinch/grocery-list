@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Model Runs getList correctly 1`] = `
+Object {
+  "created": 1564695374960,
+  "id": "1",
+  "items": Array [
+    Object {
+      "name": "beans",
+      "purchased": false,
+    },
+    Object {
+      "name": "bread",
+      "purchased": false,
+    },
+    Object {
+      "name": "broccoli",
+      "purchased": false,
+    },
+    Object {
+      "name": "cereal",
+      "purchased": false,
+    },
+    Object {
+      "name": "squash",
+      "purchased": false,
+    },
+  ],
+  "title": "Demo list",
+}
+`;
+
+exports[`List Model Runs getLists correctly 1`] = `
+Array [
+  Object {
+    "created": 1564695374960,
+    "id": "1",
+    "size": 5,
+    "title": "Demo list",
+  },
+  Object {
+    "created": 1564695541598,
+    "id": "2",
+    "size": 1,
+    "title": "Other list",
+  },
+]
+`;
