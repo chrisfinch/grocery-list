@@ -5,6 +5,7 @@ Time spent 2-3hrs
 ## Features
 
 - Typescript for compilation time type safety and modern JS features
+- Webpack for simple bundling and transpilation
 - Shared Typescript interfaces for data sent between api and client code for easy development and type safety checking
 - Express.js for simple ever side API structure and development
 - Server rendered react hydrated on the client for a simple single codebase for applicaiton functionality shared between server and client
